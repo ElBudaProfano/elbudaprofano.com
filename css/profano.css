@@ -3,7 +3,13 @@ body	{	background: url('../images/profano.jpg') no-repeat center center fixed;
 		  -moz-background-size: cover;
 		  -o-background-size: cover;
 		  background-size: cover; } 
-.column, .columns   { padding: 15px; background: #30381a; border-radius: 15px; opacity:0.8; }    
-.container .one-half.column   { background: #FFF8DC;  } 
+a {
+  color: #0000a2; }
+.column, .columns   { padding: 15px; background: #66CDAA; border-radius: 15px; opacity:0.8; }    
+.container .one-half.column { background: #66CDAA; }  
+.container .one-third.column { background: #BDB76B; }  
+.container .six.columns { background: #DAA520; }  
+
+ 
 
 
