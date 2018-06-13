@@ -19,6 +19,11 @@ a { color: #0000a2; }
 .container .one-fourth.column { background: #BDB76B; }  
 .container .six.columns { background: #DAA520; }  
 
- 
+.vertical {
+  -webkit-writing-mode: vertical-rl;
+  -moz-writing-mode: vertical-rl;
+  -ms-writing-mode: vertical-rl;
+  writing-mode: vertical-rl;
+} 
 
 
